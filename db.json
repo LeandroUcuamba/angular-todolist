@@ -1,16 +1,16 @@
 {
-    "tasks": [
-        {
-           "id": 1,
-           "tarefa": "estudar Angular",
-           "categoria": "Faculdade",
-           "concluido": false
-        },
-        {
-            "id": 2,
-            "tarefa": "estudar automação com Playwright",
-            "categoria": "Trabalho",
-            "concluido": true
-         }
-    ]
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "estudar Angular",
+      "categoria": "Faculdade",
+      "concluido": false
+    },
+    {
+      "id": "2",
+      "tarefa": "estudar automação com Playwright",
+      "categoria": "Trabalho",
+      "concluido": true
+    }
+  ]
 }
